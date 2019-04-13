@@ -2,15 +2,23 @@
 ### Turma Online 1 | Front-end | 2019 | Semana 6 | JQuery
 ________________________________________________________________
 
+##Documentação Oficial: https://jquery.com/
+
 ### Introdução:
 
 - O que é JQuery
-- O que faz e como funciona 
-- Prós e contras de usar JQuery.
+- O que faz e como funciona
+- Tutorial do site: <https://learn.jquery.com/about-jquery/how-jquery-works/> 
+- Prós e contras de usar JQuery. Recomendo a leitura deste artigo <https://www.treinaweb.com.br/blog/ainda-vale-a-pena-utilizar-o-jquery/>
 
 ### Instalação:
 
 - Instalar via Download / CND
+
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+```
+
 - Montar a estrutura de pastas
 - Criar arquivo html 
 - Adicionar Scripts
@@ -19,14 +27,18 @@ ________________________________________________________________
 
 - O que é o DOM
 - Como o JavaScript manipula o DOM
+![O que é o DOM? Como o JS Manipula o DOM?](https://juliaonet.files.wordpress.com/2014/09/dom_full2.png)
 - Como o JQuery manipula o DOM
+![COmo o Jquery manipula o DOM?](https://www.oreilly.com/library/view/head-first-jquery/9781449311988/httpatomoreillycomsourceoreillyimages1753037.png.jpg)
 
 
 ### Conceitos Básicos: 
 
-- Sintaxe e Notação
-- Carregamento e Inicialização
+- Sintaxe:
 
+```
+$('seletorHTML').acao();
+```
 
 ### Lógica de Desenvolvimento do JQuery:
 
