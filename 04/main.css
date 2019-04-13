@@ -1,0 +1,21 @@
+.click{
+    margin: 15px auto;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    padding: 10px;
+    color: blue;
+    background-color: aquamarine;
+}
+
+div {
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 150px;
+ }
+ 
+.dbl {
+    background: yellow;
+    color: black;
+}

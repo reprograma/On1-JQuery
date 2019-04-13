@@ -76,3 +76,6 @@ $('seletorHTML').acao();
 - Fade
 - Slide
 
+#Desafio EXTRAAAA
+-Criar um jogo da velha com jquery (só pra quem quiser se arriscar)
+<https://www.vivaolinux.com.br/artigo/jQuery-Criando-um-simples-jogo-da-velha>
