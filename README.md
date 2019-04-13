@@ -39,6 +39,7 @@ ________________________________________________________________
 ```
 $('seletorHTML').acao();
 ```
+![JQuery Sintaxe](http://referencedesigner.com/tutorials/jquery/images/jquerysyntax.png)
 
 ### Lógica de Desenvolvimento do JQuery:
 
